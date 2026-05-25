@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environments
+.env
+.env.local
+.env.development.local
+
+# Logs
+logs
+*.log
+.vercel
+
+# Astro Internal & Cache (Tambahan Wajib)
+.astro/
+dist/
+
+# Folder Cadangan Astro
+cadangan-astro/
+# Local Netlify folder
+.netlify
